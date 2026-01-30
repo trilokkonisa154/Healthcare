@@ -1,0 +1,6 @@
+Age,Gender,BMI,BloodSugar,BloodPressure,FamilyHistory,Outcome
+45,1,28.5,140,85,1,1
+30,0,22.0,95,70,0,0
+50,1,32.1,160,90,1,1
+25,0,21.5,88,65,0,0
+
